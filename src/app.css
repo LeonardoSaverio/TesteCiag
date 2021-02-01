@@ -1,0 +1,19 @@
+/* reset do css e definindo fontes e background */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #D9D9D9;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-family: Roboto;
+}
